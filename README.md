@@ -23,5 +23,4 @@ Ep 1. https://hackmd.io/@eternalding/SyJXZKjf1x <br>
 Ep 2. https://hackmd.io/@eternalding/S1lQZKjfye <br>
 
 ## Notes
-1. All summarization were done by GPT-4o-mini (or any other AI models in the future). 
-2. This project is 
+* All summarization were done by GPT-4o-mini (or any other AI models in the future). The summary could be wrong. Please take it as a reference, not as a ground truth.
