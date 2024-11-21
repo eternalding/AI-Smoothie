@@ -22,5 +22,8 @@ Since HackMD has MAX_LENGTH of 100,000 constraint, if the total length of summar
 Ep 1. https://hackmd.io/@eternalding/SyJXZKjf1x <br>
 Ep 2. https://hackmd.io/@eternalding/S1lQZKjfye <br>
 
+### 2024/11/21
+Ep 1. https://hackmd.io/@eternalding/ByWHqm2Gyx <br>
+
 ## Notes
 * All summarization were done by GPT-4o-mini (or any other AI models in the future). The summary could be wrong. Please take it as a reference, not as a ground truth.
